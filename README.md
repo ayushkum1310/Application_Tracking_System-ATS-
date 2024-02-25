@@ -1,4 +1,4 @@
-# Application_Tracking_System-ATS
+# Application_Tracking_System-ATS.
 
 import google.generativeai as gemini
 
